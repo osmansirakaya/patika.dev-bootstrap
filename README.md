@@ -7,4 +7,4 @@
 ## hakkımızda
 ![hakkimizda](https://user-images.githubusercontent.com/61598000/152060328-d68787bb-df8b-49fb-b1bd-6c88ed9c14d8.png)
 ## mobil görünümü
-![sw](https://user-images.githubusercontent.com/61598000/152061024-224f2c99-ec8c-4b3b-8940-a9481f0a2b22.png)![a](https://user-images.githubusercontent.com/61598000/152061020-e51a7a0c-63b3-4e41-962c-edbfbe0f17b3.png)
+![sw](https://user-images.githubusercontent.com/61598000/152061024-224f2c99-ec8c-4b3b-8940-a9481f0a2b22.png) ![a](https://user-images.githubusercontent.com/61598000/152061020-e51a7a0c-63b3-4e41-962c-edbfbe0f17b3.png)
