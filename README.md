@@ -1,1 +1,1 @@
-# patika.dev-bootstrap modülünde yaptığım projeler
+# patika.dev-bootstrap modülünde yaptığım denemeler
