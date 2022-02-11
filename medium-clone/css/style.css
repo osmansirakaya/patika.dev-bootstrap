@@ -1,0 +1,14 @@
+.font{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.buttons > li{
+    margin-bottom: 5px;
+    
+}
+
+.buttons > li > button{
+    font-size: 15px;
+    
+}
